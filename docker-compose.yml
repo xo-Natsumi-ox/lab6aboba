@@ -9,6 +9,8 @@ services:
     ports:
       - 9090:9090
 
+trololo
+
   grafana:
     image: grafana/grafana
     container_name: grafana
